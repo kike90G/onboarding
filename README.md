@@ -3,13 +3,13 @@
 Este es un repositorio del proyecto onboarding
 
 ## Tabla de Contenidos:
-1. [General Info](#general-info)
+1. [Informacion General](#general-info)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 
 
-## General Info
+## Informacion General
 ***
 Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
 
