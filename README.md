@@ -37,4 +37,4 @@ Este proyecto surge debido a la necesidad del área de Gestión de talento, para
 ***
 ![Login](django-admin-login.png)
 ![Admin](AdministracionOnboarding.jpg)
-![Base de datos](aws-db.jpg)
+![Base de datos](aws-db.png)
