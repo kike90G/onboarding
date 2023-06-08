@@ -37,4 +37,4 @@ Este proyecto surge debido a la necesidad del área de Gestión de talento, para
 
 ## Ejemplos
 ***
-
+https://github.com/kike90G/onboarding/AdministracionOnboarding.jpg
