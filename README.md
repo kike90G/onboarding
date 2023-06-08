@@ -35,4 +35,4 @@ Este proyecto surge debido a la necesidad del área de Gestión de talento, para
 
 ## Ejemplos
 ***
-![](/kike90G/onboarding/AdministracionOnboarding.jpg)
+![](/onboarding/AdministracionOnboarding.jpg)
