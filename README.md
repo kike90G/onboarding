@@ -35,5 +35,6 @@ Este proyecto surge debido a la necesidad del área de Gestión de talento, para
 
 ## Ejemplos
 ***
-![login](django-admin-login.png)
+![Login](django-admin-login.png)
 ![Admin](AdministracionOnboarding.jpg)
+![Base de datos](aws-db.jpg)
