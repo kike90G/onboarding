@@ -14,14 +14,12 @@ Este es un repositorio del proyecto onboarding
 Este proyecto surge debido a la necesidad del área de Gestión de talento, para poder mejorar el proceso actual de Onboarding.
 
 
-
 ## Tecnologías
 ***
 - Python (lenguaje)
 - MySql (base de datos en AWS)
 - Django (Framework)
 - Bootstrap 5 (CSS)
-
 
 
 ## Instalación
@@ -37,4 +35,4 @@ Este proyecto surge debido a la necesidad del área de Gestión de talento, para
 
 ## Ejemplos
 ***
-(kike90G/onboarding/AdministracionOnboarding.jpg)
+![](/kike90G/onboarding/AdministracionOnboarding.jpg)
